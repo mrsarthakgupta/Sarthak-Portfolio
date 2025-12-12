@@ -1,5 +1,5 @@
 <h2 align="center">Personal Portfolio <br/> 
-<a target="_blank" href="https://sarthak-portfolio.vercel.app/">Sarthak Gupta</a>
+<a target="_blank" href="https://sarthak-portfolio-orpin.vercel.app/">Sarthak Gupta</a>
 </h2>
 
 <br/>
