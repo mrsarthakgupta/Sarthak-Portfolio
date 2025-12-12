@@ -36,6 +36,10 @@ It highlights my journey as a <b>Full Stack Web Developer</b> and includes links
   <li><a href="https://www.npmjs.com/package/react-pdf">react-pdf</a>: Resume preview</li>
   <li><a href="https://www.npmjs.com/package/react-parallax-tilt">react-parallax-tilt</a>: Tilt hover effect</li>
 </ul>
-
-## Support
+Live Demo 🚀 :
+<a href="https://sarthak-portfolio-orpin.vercel.app/" target="_blank">
+  https://sarthak-portfolio-orpin.vercel.app/
+</a>
+<br>
+<br>
 <p>If you like the portfolio, feel free to leave a star ⭐ </p>
