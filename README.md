@@ -3,6 +3,9 @@
 </h2>
 
 <br/>
+<p align="center">
+  <img src="./public/homepage.png" alt="Portfolio Home Screenshot" width="800px"/>
+</p>
 
 ## About
 <p>This project is my personal portfolio showcasing my skills, projects, and experience.  
