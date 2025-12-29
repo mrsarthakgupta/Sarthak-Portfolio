@@ -12,7 +12,7 @@ const Footer = () => {
         <a href="https://github.com/mrsarthakgupta" target='_blank'><FaGithub/></a>
         <a href="https://www.linkedin.com/in/sarthakgupta-iiitbhopal" target='_blank'><FaLinkedin/></a>
         <a href='mailto:sarthakgupta007brh@gmail.com' target='_blank'><GrMail/></a>
-        <a href="https://leetcode.com/mrsarthakgupta/" target="_blank"><SiLeetcode/></a>
+        <a href="https://leetcode.com/u/mrsarthak/" target="_blank"><SiLeetcode/></a>
       </div>
     </footer>
   )
