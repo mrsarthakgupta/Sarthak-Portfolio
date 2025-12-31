@@ -12,7 +12,7 @@ const About = () => {
           <h1 className='AboutTextHeading' >Get to <b>know</b> me!</h1>
           <p>
             Hi, my name is <b>Sarthak Gupta</b> and I am from <b>Uttar Pradesh, India</b>.
-            I'm a <b>Full Stack Web Developer</b> and a <b>3rd year CSE student at IIIT Bhopal</b> with a CGPA of <b>8.64</b>. <br/><br/>
+            I'm a <b>Full Stack Web Developer</b> and a <b>3rd year CSE student at IIIT Bhopal</b> with a CGPA of <b>8.76</b>. <br/><br/>
 
             I’ve built projects like <b>Imagify</b>, a <b>background remover</b>, a <b>real-time chat app</b>, the <b>Green Cart grocery app</b>, 
             and <b>Tic-Tac-Toe with AI modes</b>. I enjoy building clean and user-friendly applications.<br/><br/>
