@@ -79,7 +79,7 @@ const ProjectBox = ({ projectPhoto, projectName }) => {
           rel="noopener noreferrer"
         >
           <button className='projectbtn'>
-            <CgFileDocument /> Try
+            <CgFileDocument /> DEMO
           </button>
         </a>
       </div>
