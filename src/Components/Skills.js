@@ -4,7 +4,7 @@ import './Skills.css'; // -> create the CSS file below
 
 // Icons
 import { CgCPlusPlus } from "react-icons/cg";
-import { FaReact, FaPython, FaGitAlt, FaGithub, FaNpm, FaFigma, FaBootstrap, FaHtml5, FaCss3Alt } from "react-icons/fa";
+import { FaReact, FaPython, FaGitAlt, FaGithub, FaNpm, FaFigma, FaHtml5, FaCss3Alt } from "react-icons/fa";
 import { DiNodejs, DiJavascript1 } from "react-icons/di";
 import { SiExpress, SiMongodb, SiPostman, SiVercel, SiTypescript, SiNextdotjs, SiTailwindcss, SiSocketdotio, SiMysql, SiAmazonaws, SiMicrosoftazure, SiGooglecloud, SiNetlify, SiRender, SiVultr, SiRedux, SiReactrouter, SiReactquery, SiNpm, SiGithubactions, SiSupabase, SiNotion, SiCanva } from "react-icons/si";
 import { SiNodemon, SiNginx } from "react-icons/si"; // extra small icons

@@ -21,7 +21,7 @@ const About = () => {
             Feel free to connect — links are in the footer.<br/><br/>
 
             Outside coding, I love exploring tech and doing photography — 
-            see my shots on <a href="https://www.instagram.com/mr.sarthakgupta/" target='_blank'>Instagram.</a>
+            see my shots on <a href="https://www.instagram.com/mr.sarthakgupta/" target="_blank" rel="noreferrer">Instagram.</a>
           </p>
         </div>
 
