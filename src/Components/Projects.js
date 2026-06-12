@@ -15,12 +15,12 @@ const Projects = () => {
       <h1 className='projectHeading'>My <b>Projects</b></h1>
 
       <div className='project'>
+        <ProjectBox projectPhoto={AIMediAssistImage} projectName="AIMediAssist" />
         <ProjectBox projectPhoto={ImagifyImage} projectName="Imagify" />
         <ProjectBox projectPhoto={BgRemovalImage} projectName="BgRemoval" />
         <ProjectBox projectPhoto={GreenCartImage} projectName="GreenCart" />
         <ProjectBox projectPhoto={SynchronousImage} projectName="Synchronous" />
         <ProjectBox projectPhoto={TicTacToeImage} projectName="TicTacToe" />
-        <ProjectBox projectPhoto={AIMediAssistImage} projectName="AIMediAssist" />
       </div>
     </div>
   )
