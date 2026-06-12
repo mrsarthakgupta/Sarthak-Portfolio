@@ -16,10 +16,10 @@ const Projects = () => {
 
       <div className='project'>
         <ProjectBox projectPhoto={AIMediAssistImage} projectName="AIMediAssist" />
-        <ProjectBox projectPhoto={ImagifyImage} projectName="Imagify" />
-        <ProjectBox projectPhoto={BgRemovalImage} projectName="BgRemoval" />
-        <ProjectBox projectPhoto={GreenCartImage} projectName="GreenCart" />
         <ProjectBox projectPhoto={SynchronousImage} projectName="Synchronous" />
+        <ProjectBox projectPhoto={ImagifyImage} projectName="Imagify" />
+        <ProjectBox projectPhoto={GreenCartImage} projectName="GreenCart" />
+        <ProjectBox projectPhoto={BgRemovalImage} projectName="BgRemoval" />
         <ProjectBox projectPhoto={TicTacToeImage} projectName="TicTacToe" />
       </div>
     </div>
